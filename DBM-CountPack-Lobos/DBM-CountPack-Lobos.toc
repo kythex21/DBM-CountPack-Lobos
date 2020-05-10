@@ -4,7 +4,7 @@
 #@non-retail@
 # ## Interface: 11304
 #@end-non-retail@
-## Title:DBM Lobos Countdown
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Lobos|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: kythex21
