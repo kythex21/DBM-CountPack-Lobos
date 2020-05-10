@@ -1,0 +1,16 @@
+#@retail@
+## Interface: 80300
+#@end-retail@
+#@non-retail@
+# ## Interface: 11304
+#@end-non-retail@
+## Title:DBM Lobos Countdown
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: kythex21
+## Version: @project-version@
+## X-DBM-CountPack: 1
+## X-DBM-CountPack-GlobalName: DBMCPLobos
+## X-Curse-Project-ID: 382409
+
+CountLoadList.lua
